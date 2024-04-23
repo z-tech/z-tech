@@ -1,4 +1,4 @@
-🌈👾💻🔐 I work in the [computational security lab](https://compsec.epfl.ch/) at EPFL and sometimes collaborate on [Arkworks](https://github.com/arkworks-rs)
+Cryptography engineer [@EPFL](https://compsec.epfl.ch)
 
 <!---
 z-tech/z-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
